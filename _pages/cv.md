@@ -11,35 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Computer Science and Engineering, East West University, 2025
+  * CGPA: 3.91
+* B.Sc. in Computer Science and Engineering, East West University, 2024
+  * CGPA: 3.76
+* Higher Secondary Certificate (HSC), Dhaka College, 2019
+  * GPA: 4.58
+* Secondary School Certificate (SSC), Ideal School and College, 2017
+  * GPA: 5.00
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2026 - Present: Junior AI Developer
+  * SM Technology
+  * Developing AI solutions and machine learning applications
+  * Focus: LLMs, NLP, and Deep Learning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2024 - December 2025: Teaching Assistant
+  * East West University
+  * Department of Computer Science and Engineering
+  * Responsibilities: Assisting in courses, grading assignments, tutoring students
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2024 - September 2024: Machine Learning Engineer (Internship)
+  * ACME AI
+  * Completed a three-month internship focused on ML model development
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C/C++
+  * JavaScript
+  * SQL
+* Machine Learning & AI
+  * Deep Learning
+  * Natural Language Processing (NLP)
+  * Computer Vision
+  * Large Language Models (LLM)
+  * Artificial Intelligence (AI)
+  * Prompt Engineering
+* Frameworks & Tools
+  * Django
+  * FastAPI
+  * PyTorch
+  * TensorFlow
+  * LangChain
+  * Vector Databases
+* Other Skills
+  * Data Science & Machine Learning
+  * RAG Pipelines
+  * Graph Neural Networks (GNN)
+  * XML Annotation
+  * Numpy, Pandas
+  * MS Office
+  * HTML, CSS
 
 Publications
 ======
