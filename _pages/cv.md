@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Computer Science and Engineering, East West University, 2025 (Pursuing - CGPA: 3.91)
+* B.Sc. in Computer Science and Engineering, East West University, 2024 (CGPA: 3.76)
+* Higher Secondary Certificate (HSC), Dhaka College, 2019 (GPA: 4.58)
+* Secondary School Certificate (SSC), Ideal School and College, Motijheel, Dhaka, 2017 (GPA: 5.00)
 
 Work experience
 ======
@@ -34,12 +35,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, C/C++, JavaScript, HTML, CSS, SQL, XML Annotation
+* **Deep Learning & AI**: PyTorch, TensorFlow, Large Language Models (LLMs), Natural Language Processing (NLP), Computer Vision
+* **ML & Data Science**: Machine Learning, Data Science, Deep Learning, Artificial Intelligence, Graph Neural Networks (GNN)
+* **Specialized Techniques**: RAG Pipelines, LangChain, Vector Database, Prompt Engineering, Self-Supervised Learning (SSL)
+* **Frameworks & Tools**: Django, FastAPI, YOLO, NumPy, Pandas
+* **Other Tools**: MS Office, XML Annotation
 
 Publications
 ======

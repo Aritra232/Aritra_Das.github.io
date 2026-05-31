@@ -1,18 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Aritra Das:
+  name        : "Aritra Das"
+  uri         : "https://aritra232.github.io/Aritra_Das.github.io/"
+  email       : "aritra.das5101999@gmail.com"
+  bio         : "Junior AI Developer specializing in Machine Learning, NLP, and Computer Vision."
+  avatar      : "New_Ari.jpg.jpeg"
+  linkedin    : "aritra-das-9a1051225"
+  facebook    : "aritra.das.5855"
+  github      : "aritra232"
+  google_scholar : "https://scholar.google.com/citations?hl=en&user=WkuhmCUAAAAJ"
