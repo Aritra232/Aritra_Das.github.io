@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "TFP-BD: An image dataset for traffic flow and pedestrian movement analysis on Bangladeshi urban roads"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: datasets
+permalink: /publication/2025-01-01-tfp-bd-traffic-flow-pedestrian-dataset
+excerpt: "Journal article introducing the TFP-BD dataset for traffic and pedestrian movement analysis."
+date: 2025-01-01
+venue: "Data in Brief"
+paperurl: "https://doi.org/10.1016/j.dib.2025.111398"
+citation: "M. M. Islam, A. Das, K. Shams, Md. R. Hasan, K. F. Hasan, M. R. Rashid, A. Chowdhury, M. S. Ali, M. Islam, M. Shahjalal, and S. Masum. (2025). ‘TFP-BD: An image dataset for traffic flow and pedestrian movement analysis on Bangladeshi urban roads.’ <i>Data in Brief</i>, 59, 111398."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents the TFP-BD dataset, which captures traffic flow and pedestrian movement on urban roads in Bangladesh. It supports intelligent transportation, urban planning, and road safety research.
