@@ -66,32 +66,70 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Bdflower: Growth stage flower image dataset for precision agriculture and floriculture",
+      "publisher": "Data in Brief",
+      "releaseDate": "2026-01-01",
+      "website": "https://www.sciencedirect.com/science/article/pii/S2352340926002982",
+      "summary": "Journal article on the Bdflower dataset for precision agriculture and floriculture."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "BERT-KAN: Enhancing bilingual sentiment analysis in Bangladeshi e-commerce through fine-tuned large language models",
+      "publisher": "Natural Language Processing Journal",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1016/j.nlp.2025.100190",
+      "summary": "Journal article on bilingual sentiment analysis for Bangladesh e-commerce."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "TFP-BD: An image dataset for traffic flow and pedestrian movement analysis on Bangladeshi urban roads",
+      "publisher": "Data in Brief",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1016/j.dib.2025.111398",
+      "summary": "Journal article introducing the TFP-BD dataset for traffic and pedestrian movement analysis."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A comprehensive dataset for sentiment and emotion classification from Bangladesh e-commerce reviews",
+      "publisher": "Data in Brief",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.1016/j.dib.2024.110052",
+      "summary": "Journal article presenting a Bangladesh e-commerce sentiment and emotion dataset."
+    },
+    {
+      "name": "BDMANGO: An image dataset for identifying the variety of mango based on the mango leaves",
+      "publisher": "Data in Brief",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1016/j.dib.2024.111241",
+      "summary": "Journal article describing the BDMANGO mango variety image dataset."
+    },
+    {
+      "name": "Load balancing algorithm: A Markov chain model using queuing theory approach",
+      "publisher": "Proc. 2024 Int. Conf. Innovations in Science, Engineering and Technology (ICISET)",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.1109/ICISET62123.2024.11003920",
+      "summary": "Conference paper on a load balancing algorithm using Markov chain and queuing theory."
+    },
+    {
+      "name": "Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer",
+      "publisher": "Data Mining and Information Security: Proceedings of ICDMIS 2024, Springer Nature",
+      "releaseDate": "2025-01-01",
+      "summary": "Conference paper on deep learning prognosis prediction for small cell lung cancer."
+    },
+    {
+      "name": "Towards Annotation-Efficient Kidney CT Scan Classification: Supervised and Semi-Supervised Swin Transformer Frameworks",
+      "publisher": "SPICSCON 2025",
+      "releaseDate": "2025-01-01",
+      "summary": "Accepted conference paper on kidney CT scan classification using Swin Transformer."
+    },
+    {
+      "name": "CodeMixEcom-Emotion: A Large-Scale Bangla-English Review Corpus and Transformer-Based Benchmark for Fine-Grained Emotion Detection",
+      "publisher": "AII 2025",
+      "releaseDate": "2025-01-01",
+      "summary": "Accepted conference paper on a Bangla-English review corpus and emotion detection benchmark."
+    },
+    {
+      "name": "Fast, Fault-Tolerant, and Affordable: A Modern Data Lakehouse ETL Pipeline for Emerging Economies",
+      "publisher": "ICCIT 2025",
+      "releaseDate": "2025-01-01",
+      "summary": "Accepted conference paper on a modern data lakehouse ETL pipeline for emerging economies."
     }
   ],
   "presentations": [
